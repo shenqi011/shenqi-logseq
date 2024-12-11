@@ -426,4 +426,4 @@
  :orphan-pages? true
  :builtin-pages? false
  :excluded-pages? false}
- :editor/logical-outdenting? true}
+ :editor/logical-outdenting? false}
