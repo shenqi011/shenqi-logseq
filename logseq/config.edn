@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["信息系统安全"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -423,7 +423,7 @@
  :editor/preferred-pasting-file? true
  :publishing/all-pages-public? false
  :graph/settings {:journal? true
- :orphan-pages? true
+ :orphan-pages? false
  :builtin-pages? false
  :excluded-pages? false}
  :editor/logical-outdenting? false}
